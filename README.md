@@ -1,2 +1,2 @@
 # huri-coffee
-website for hurt coffee
+website for huri coffee
